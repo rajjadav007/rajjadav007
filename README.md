@@ -26,7 +26,7 @@
 
 ### 🐍 GitHub Contribution Snake
 
-<img src="https://raw.githubusercontent.com/rajjadav007/rajjadav007/output/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/rajjadav007/rajjadav007/output/github-snake-light.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
 
