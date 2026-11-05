@@ -10,6 +10,7 @@
 
 
 
+
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -23,9 +24,9 @@
 
 <img width="70%" src="./profile/streak.svg" />
 
-### 🐍 Contribution Activity
+### 🐍 GitHub Contribution Snake
 
-<img width="100%" src="https://raw.githubusercontent.com/rajjadav007/rajjadav007/output/github-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/rajjadav007/rajjadav007/output/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
 
