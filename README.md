@@ -105,7 +105,11 @@
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajjadav007&bg_color=ffffff&color=334155&line=2563eb&point=2563eb&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph" />
+  <img
+    src="https://raw.githubusercontent.com/rajjadav007/rajjadav007/activity-assets/activity-365d.svg"
+    width="100%"
+    alt="365-Day GitHub Contribution Activity"
+  />
 </p>
 
 ---
