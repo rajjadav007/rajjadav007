@@ -120,7 +120,7 @@
 ## ⏱️ WakaTime Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=110637d4-7898-436d-8bda-7ac5be463724&layout=compact&hide_border=true&bg_color=ffffff&title_color=2563EB&text_color=334155" width="100%" alt="WakaTime Coding Activity" />
+  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=110637d4-7898-436d-8bda-7ac5be463724&layout=compact&theme=default&hide_border=true" width="100%" alt="WakaTime Coding Activity" />
 </p>
 
 ---
