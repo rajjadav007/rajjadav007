@@ -102,15 +102,18 @@
 
 ---
 
-### 📈 Contribution Activity
+
+<!-- CONTRIBUTION ACTIVITY -->
+<h3 align="center">📈 My GitHub Contribution Activity</h3>
 
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/rajjadav007/rajjadav007/activity-assets/activity-365d.svg"
     width="100%"
-    alt="365-Day GitHub Contribution Activity"
+    alt="365 Day GitHub Contribution Activity"
   />
 </p>
+
 
 ---
 
