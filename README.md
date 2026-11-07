@@ -1,18 +1,19 @@
-<!-- FUTURISTIC HEADER -->
+<!-- ================= FUTURISTIC HEADER ================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EFF6FF,50:DBEAFE,100:BFDBFE&height=150&section=header&text=Raj%20Jadav&fontSize=42&fontColor=1E3A8A&fontAlignY=40&desc=AI%20Engineer%20%7C%20AI%20Application%20Developer&descSize=15&descAlignY=68" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EFF6FF,50:DBEAFE,100:BFDBFE&height=165&section=header&text=Raj%20Jadav&fontSize=42&fontColor=1E3A8A&fontAlignY=38&desc=AI%20Engineer%20%7C%20AI%20Application%20Developer&descSize=16&descAlignY=62" width="100%" />
 </p>
+
+<!-- ================= INTRODUCTION ================= -->
 
 <h3 align="center">Hi, I'm Raj Jadav 👋</h3>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Aspiring+AI+Engineer;AI+Application+Developer;Building+Intelligent+Applications;Exploring+LLMs+%26+AI+Agents" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=550&lines=Aspiring+AI+Engineer;AI+Application+Developer;Building+Intelligent+Applications;Exploring+LLMs+%26+AI+Agents" />
 </p>
 
 <p align="center">
-  I build intelligent applications using Artificial Intelligence, Machine Learning, Deep Learning and Generative AI.
+  Building intelligent applications using Artificial Intelligence, Machine Learning, Deep Learning and Generative AI.
 </p>
 
 <p align="center">
@@ -20,9 +21,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=PROFILE+VIEWS&color=2563EB&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?label=Followers&style=flat-square&color=2563EB" />
-  <img src="https://img.shields.io/github/stars/YOUR-GITHUB-USERNAME?label=Stars&style=flat-square&color=2563EB" />
+  <img src="https://komarev.com/ghpvc/?username=rajjadav007&label=PROFILE+VIEWS&color=2563EB&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/rajjadav007?label=Followers&style=flat-square&color=2563EB" />
+  <img src="https://img.shields.io/github/stars/rajjadav007?label=Stars&style=flat-square&color=2563EB" />
 </p>
 
 ---
@@ -85,38 +86,12 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=default"
-    height="160"
-    alt="GitHub Statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=default"
-    height="160"
-    alt="Top Languages"
-  />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rajjadav007&show_icons=true&hide_border=true&bg_color=ffffff&title_color=2563EB&icon_color=2563EB&text_color=334155&rank_icon=github" alt="GitHub Statistics" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajjadav007&layout=compact&hide_border=true&bg_color=ffffff&title_color=2563EB&text_color=334155&langs_count=6" alt="Top Languages" />
 </p>
 
----
-
-### ⏱️ Coding Activity
-
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&hide_border=true"
-    alt="WakaTime Statistics"
-  />
-</p>
-
----
-
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&no-bg=true&column=4"
-    alt="GitHub Achievements"
-  />
+  <img width="65%" src="https://streak-stats.demolab.com?user=rajjadav007&theme=default&hide_border=true&background=FFFFFF&ring=2563EB&fire=F59E0B&currStreakLabel=2563EB" alt="GitHub Contribution Streak" />
 </p>
 
 ---
@@ -124,11 +99,23 @@
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=ffffff&color=334155&line=2563eb&point=2563eb&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub Contribution Activity Graph"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajjadav007&bg_color=ffffff&color=334155&line=2563eb&point=2563eb&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph" />
+</p>
+
+---
+
+### ⏱️ Coding Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&hide_border=true&bg_color=ffffff&title_color=2563EB&text_color=334155" alt="WakaTime Coding Statistics" />
+</p>
+
+---
+
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rajjadav007&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=4" width="100%" alt="GitHub Achievements" />
 </p>
 
 ---
@@ -136,11 +123,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"
-    width="100%"
-    alt="GitHub Contribution Snake"
-  />
+  <img src="https://raw.githubusercontent.com/rajjadav007/rajjadav007/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake" />
 </p>
 
 ---
@@ -148,14 +131,11 @@
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <a href="https://www.linkedin.com/in/raj-jadav90/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
+  <a href="https://github.com/rajjadav007">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR-EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
