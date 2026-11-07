@@ -83,16 +83,22 @@
 
 ---
 
+
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rajjadav007&show_icons=true&hide_border=true&bg_color=ffffff&title_color=2563EB&icon_color=2563EB&text_color=334155&rank_icon=github" alt="GitHub Statistics" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajjadav007&layout=compact&hide_border=true&bg_color=ffffff&title_color=2563EB&text_color=334155&langs_count=6" alt="Top Languages" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=rajjadav007&show_icons=true&theme=default&hide_border=true&rank_icon=github"
+    height="165"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=rajjadav007&layout=compact&theme=default&hide_border=true&langs_count=6"
+    height="165"
+    alt="Top Languages"
+  />
 </p>
 
-<p align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=rajjadav007&theme=default&hide_border=true&background=FFFFFF&ring=2563EB&fire=F59E0B&currStreakLabel=2563EB" alt="GitHub Contribution Streak" />
-</p>
 
 ---
 
