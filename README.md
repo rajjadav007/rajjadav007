@@ -114,23 +114,6 @@
   />
 </p>
 
-
----
-
-## ⏱️ WakaTime Coding Activity
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=110637d4-7898-436d-8bda-7ac5be463724&layout=compact&theme=default&hide_border=true" width="100%" alt="WakaTime Coding Activity" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=rajjadav007&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=4" width="100%" alt="GitHub Achievements" />
-</p>
-
 ---
 
 ### 🐍 Contribution Snake
