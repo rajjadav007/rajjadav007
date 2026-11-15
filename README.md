@@ -9,7 +9,7 @@
 <h3 align="center">Hi, I'm Raj Jadav 👋</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=550&lines=Aspiring+AI+Engineer;AI+Application+Developer;Building+Intelligent+Applications;Exploring+LLMs+%26+AI+Agents" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=550&lines=AI+Engineer;AI+Application+Developer;Building+Intelligent+Applications;Exploring+LLMs+%26+AI+Agents" />
 </p>
 
 <p align="center">
