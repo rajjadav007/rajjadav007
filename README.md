@@ -116,6 +116,21 @@
 
 ---
 
+
+<!-- ================= GITHUB ACTIVITY STREAK ================= -->
+
+<h3 align="center">🔥 GitHub Activity Streak</h3>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=rajjadav007&theme=dark&hide_border=true&background=1B1B27&ring=6EA8FE&fire=6EA8FE&currStreakNum=C084FC&sideNums=6EA8FE&currStreakLabel=C084FC&sideLabels=6EA8FE&dates=2DD4BF"
+    width="75%"
+    alt="GitHub Activity Streak"
+  />
+</p>
+
+---
+
 ### 🐍 Contribution Snake
 
 <p align="center">
